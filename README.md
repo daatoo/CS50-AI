@@ -6,6 +6,7 @@ This repository tracks my progress in the CS50 AI course offered by Harvard Univ
 
 - **[Week 0: Search](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0)**
   - [Degrees](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0/degrees)
+  - [Tic-tac-toe](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0/tictactoe)
   - [Additional Resources](#additional-resources)
 
 
