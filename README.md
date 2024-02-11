@@ -4,6 +4,10 @@ This repository tracks my progress in the CS50 AI course offered by Harvard Univ
 
 ## Table of Contents
 
+- **[Week 0: Search](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0)**
+  - [Degrees](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0/degrees)
+  - [Additional Resources](#additional-resources)
+
 
 ## About CS50 AI
 
