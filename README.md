@@ -4,10 +4,14 @@ This repository tracks my progress in the CS50 AI course offered by Harvard Univ
 
 ## Table of Contents
 
-- **[Week 0: Search](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0)**
+- **[Week 0: Search](https://github.com/daatoo/CS50-AI/tree/main/week-0)**
   - [Degrees](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0/degrees)
   - [Tic-tac-toe](https://github.com/daatoo/CS50-AI/tree/main/week-0/Project-0/tictactoe)
   - [Additional Resources](#additional-resources)
+- **[Week 1: Knowledge](https://github.com/daatoo/CS50-AI/tree/main/week-1)**
+  - [Minesweeper](https://github.com/daatoo/CS50-AI/tree/main/week-1/project-1/Minesweeper)
+  - [Knights](https://github.com/daatoo/CS50-AI/tree/main/week-1/project-1/knights)
+  - [Additional Resources](#additional-resources-1)  
 
 
 ## About CS50 AI
