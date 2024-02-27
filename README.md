@@ -17,4 +17,4 @@ CS50 AI is an online course that introduces students to the basics of artificial
   - [Minesweeper](https://github.com/daatoo/CS50-AI/tree/main/week-1/project-1/Minesweeper)
   - [Knights](https://github.com/daatoo/CS50-AI/tree/main/week-1/project-1/knights)
   - [Additional Resources](#additional-resources-1)  
-- **[Week 2: Uncertainty]**
+- **[Week 2: Uncertainty](#Uncertainty)**
